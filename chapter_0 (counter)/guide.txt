@@ -1,0 +1,4 @@
+run react project on my-app
+
+1. make a counter with trigger button
+2. make a counter with trigger every seconds "counter + 1"

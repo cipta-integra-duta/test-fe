@@ -1,0 +1,3 @@
+hit an API service https://randomuser.me/api
+
+you can use axios / fetch or what ever you want, then display them in table name, gender, email, location

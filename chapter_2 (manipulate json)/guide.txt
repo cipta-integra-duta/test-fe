@@ -1,0 +1,16 @@
+solve the json file
+
+
+*json sum 1 result is
+total: 1.000.000
+
+
+*json 2 show the object to table
+
+--- Table of Family Insured ---
+Family 			| [asuransi 1] 	| [asuransi 2]
+[name_person_1] | nominal		| nominal
+[name_person_2]	| nominal		| nominal
+[name_person_3]	| nominal		| nominal
+...
+TOTAL			| sum_1			| sum_2

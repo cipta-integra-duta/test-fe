@@ -1,0 +1,14 @@
+{
+    "budi": {
+        "Seainsure": 100000,
+        "Jiwa Indosurya": 100000
+    },
+    "eko": {
+        "Seainsure": 200000,
+        "Jiwa Indosurya": 200000
+    },
+    "iwan": {
+        "Seainsure": 300000,
+        "Jiwa Indosurya": 300000
+    }
+}
