@@ -1,6 +1,9 @@
 import './App.css';
-
+import axios from 'axios';
 function App() {
+  axios.get("http://localhost:8000/users").then(res => {
+    console.log(res);
+  })
   return (
     <div className="App">
       <header className="App-header">

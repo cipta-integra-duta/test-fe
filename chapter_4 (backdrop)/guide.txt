@@ -1,0 +1,4 @@
+make a button, if i click show backdrop, after 2 second the backdrop display to hidden
+
+backdrop background-color: #0000002e
+text on center of page: loading...
